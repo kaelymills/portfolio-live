@@ -516,7 +516,7 @@ li.active .menu-drop-toggle {
 .navbar-default .navbar-brand {
   color: #000 !important;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   font-family: "Dosis", sans-serif;
   font-size: 25px;
 }
