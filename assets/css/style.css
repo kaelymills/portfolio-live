@@ -1397,14 +1397,14 @@ Footer styles
 
 /************Hero static with parallax bg************/
 .hero-static h1 {
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-size: 6rem;
   letter-spacing: 4px;
   font-weight: 300;
 }
 .hero-static p {
-  color: #fff;
+  color: #000;
   font-size: 20px;
   line-height: 35px;
 }
@@ -1754,4 +1754,13 @@ Footer styles
     width: 100%;
     border-bottom: 1px solid #eee;
   }
+}
+
+/*---------My Additions-----------*/
+
+#about-btn {
+  color: #fff;
+  background-color: #bfa67a;
+  padding: 12px 25px;
+  border: 1px solid transparent;
 }
