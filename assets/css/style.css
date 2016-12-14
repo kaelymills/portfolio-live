@@ -1667,12 +1667,23 @@ Footer styles
   }
 }
 @media (max-width: 767px) {
+
+  .hero-parallax {
+    background-color: #fff;
+  }
+
+  /*#profilePicture {*/
+    /*display: none;*/
+
+  /*}*/
+
   .hero-static h1 {
     font-size: 3rem;
+
   }
-  .hero-static .buttons {
-    display: none;
-  }
+  /*.hero-static .buttons {*/
+    /*display: none;*/
+  /*}*/
 
   .flexslider .slides li h1 {
     font-size: 3rem;
